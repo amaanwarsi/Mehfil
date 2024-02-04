@@ -1,2 +1,2 @@
-# Gather
-A Social media website created for same university students
+# Mehfil
+Ultimate Social media application dedicated for University students
